@@ -1,0 +1,12 @@
+C:\Users\lukasz\Desktop\Punkty\ProgramPunktowy\bin\Debug\ProgramPunktowy.exe.config
+C:\Users\lukasz\Desktop\Punkty\ProgramPunktowy\obj\Debug\ProgramPunktowy.csprojResolveAssemblyReference.cache
+C:\Users\lukasz\Desktop\Punkty\ProgramPunktowy\bin\Debug\ProgramPunktowy.exe
+C:\Users\lukasz\Desktop\Punkty\ProgramPunktowy\bin\Debug\ProgramPunktowy.pdb
+C:\Users\lukasz\Desktop\Punkty\ProgramPunktowy\obj\Debug\ProgramPunktowy.exe
+C:\Users\lukasz\Desktop\Punkty\ProgramPunktowy\obj\Debug\ProgramPunktowy.pdb
+g:\PROGRAMOWANIE\c#\akademia\Punkty\ProgramPunktowy\bin\Debug\ProgramPunktowy.exe.config
+g:\PROGRAMOWANIE\c#\akademia\Punkty\ProgramPunktowy\obj\Debug\ProgramPunktowy.exe
+g:\PROGRAMOWANIE\c#\akademia\Punkty\ProgramPunktowy\obj\Debug\ProgramPunktowy.pdb
+g:\PROGRAMOWANIE\c#\akademia\Punkty\ProgramPunktowy\bin\Debug\ProgramPunktowy.exe
+g:\PROGRAMOWANIE\c#\akademia\Punkty\ProgramPunktowy\bin\Debug\ProgramPunktowy.pdb
+g:\PROGRAMOWANIE\c#\akademia\Punkty\ProgramPunktowy\obj\Debug\ProgramPunktowy.csprojResolveAssemblyReference.cache
