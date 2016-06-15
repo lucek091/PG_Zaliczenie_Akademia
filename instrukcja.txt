@@ -1,0 +1,7 @@
+Program wykonuje obliczenia na podstawie wprowadzonych wartoœci. 
+Istnieje mo¿liwoœæ dodania elementów charakterystycznych: koloru, nazwy. 
+Wykorzysta³em enuma do wyboru p³ci - u¿ytkownik zapytany o p³eæ ma mo¿liwoœæ podania cyfry (1,2) b¹dŸ wpisania pe³nej nazwy (Kobieta/Mê¿czyzna). 
+Poprzez wykorzystanie dziedziczenia oraz odwo³ania base usun¹³em skrajne wartoœci podane przez u¿ytkownika, a odwo³anie base pozwoli³o na wykonanie reszty obliczeñ z klasy bazowe.
+Stworzy³em swój interfejs INotesCalculator, który wykorzysta³em w klasie PointBook.
+Je¿eli chodzi o zastosowanie enkapsulacji i clean code to mam nadziejê, ¿e jest ok.
+
